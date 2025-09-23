@@ -20,7 +20,7 @@ export default function Page() {
       <WhyChooseUs />
       {/* <DemoVideo /> */}
       <Pricing />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <CallToAction />
       <SiteFooter />
     </main>
