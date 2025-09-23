@@ -1,0 +1,7 @@
+export * from "./hero"
+export * from "./features"
+export * from "./how-it-works"
+export * from "./why-choose-us"
+export * from "./pricing"
+export * from "./testimonials"
+export * from "./cta"
