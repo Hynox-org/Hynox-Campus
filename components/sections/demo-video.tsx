@@ -24,7 +24,7 @@ export function DemoVideo() {
               controls
               poster="/erp-software-demo.jpg"
             >
-              <source src="https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
+              <source src="https://kipkprekfsybarwttqkr.supabase.co/storage/v1/object/public/file-storage/hynox-campus-demo.mov" type="video/mp4" />
             </video>
           </AspectRatio>
         </div>
