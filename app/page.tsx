@@ -13,8 +13,8 @@ export default function Page() {
   return (
     <main>
       <SiteHeader />
+            <Hero />
       <DemoVideo />
-      <Hero />
       <Features />
       <HowItWorks />
       <WhyChooseUs />

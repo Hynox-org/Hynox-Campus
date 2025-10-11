@@ -4,10 +4,10 @@ import { AspectRatio } from "@/components/ui/aspect-ratio"
 
 export function DemoVideo() {
   return (
-    <section id="demo" className="scroll-mt-24">
+    <section id="demo" className="scroll-mt-24 bg-gray-900 border-t">
       <div className="mx-auto max-w-6xl px-4 py-10 md:py-16">
         <div className="max-w-3xl">
-          <h2 className="text-balance text-3xl font-semibold md:text-4xl">See Hynox Campus in action</h2>
+          <h2 className="text-white text-3xl font-semibold md:text-4xl">See Hynox Campus in action</h2>
           <p className="mt-3 text-muted-foreground md:text-lg">
             Watch a quick walkthrough of key workflows students, teachers, and admins use every day.
           </p>
