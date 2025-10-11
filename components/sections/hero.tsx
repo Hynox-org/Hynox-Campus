@@ -28,12 +28,12 @@ export function Hero() {
             </p>
             <div className="flex flex-wrap justify-center gap-3">
               <Button size="lg" asChild>
-                <a href="https://www.hynox.in/contact" target="_blank">
-                  Request Demo
+                <a href="https://demo.hynox.in" target="_blank">
+                  Check Demo
                 </a>
               </Button>
               <Button size="lg" variant="secondary" asChild>
-                <a href="#pricing">Get Started</a>
+                <a href="https://www.hynox.in/contact">Get Started</a>
               </Button>
             </div>
             <div className="flex items-center justify-center gap-4 pt-2">
